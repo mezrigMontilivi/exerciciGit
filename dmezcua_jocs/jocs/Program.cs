@@ -25,9 +25,8 @@ namespace jocs
         static void Comecocos()
         {
             Console.WriteLine("Aquí aniría la funcionaltat del Comecocos.");
-            Console.WriteLine("Aquí aniría la funcionalitat dels fantasmes");
-            Console.WriteLine("Aquí aniria la reclamació de copyright dels creadors de Pac-Man");
-            Console.WriteLine("Aquí aniría la dignitat que tenía però vaig perdre.");
+            Console.WriteLine("Aquí apareix la funcionalitat del Hadouken");
+            Console.WriteLine("Aquí apareix el recordatori de que no estem programant Street Fighter");
         }
 
         static void Escacs()
