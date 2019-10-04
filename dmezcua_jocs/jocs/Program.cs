@@ -19,6 +19,7 @@ namespace jocs
             Console.WriteLine("Aquí aniría la funcionaltat del Buscaminas.");
             Console.WriteLine("Aquí aniria la funcionalitat de clicar les caselles");
             Console.WriteLine("Aquí aniría el Game Over, perqué tens molta mala sort.");
+            Console.WriteLine("Aquí aniría la depresió causada per no ser un bon programador.");
         }
 
         static void Comecocos()
@@ -26,6 +27,7 @@ namespace jocs
             Console.WriteLine("Aquí aniría la funcionaltat del Comecocos.");
             Console.WriteLine("Aquí aniría la funcionalitat dels fantasmes");
             Console.WriteLine("Aquí aniria la reclamació de copyright dels creadors de Pac-Man");
+            Console.WriteLine("Aquí aniría la dignitat que tenía però vaig perdre.");
         }
 
         static void Escacs()
