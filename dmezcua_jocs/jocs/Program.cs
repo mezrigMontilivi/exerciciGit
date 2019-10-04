@@ -19,11 +19,14 @@ namespace jocs
             Console.WriteLine("Aquí aniría la funcionaltat del Buscaminas.");
             Console.WriteLine("Aquí aniria la funcionalitat de clicar les caselles");
             Console.WriteLine("Aquí aniría el Game Over, perqué tens molta mala sort.");
+            Console.WriteLine("Aquí aniría la gloría i fortuna que mereixo com programador pero mai tindré");
         }
 
         static void Comecocos()
         {
             Console.WriteLine("Aquí aniría la funcionaltat del Comecocos.");
+            Console.WriteLine("Aquí apareix la funcionalitat del Hadouken");
+            Console.WriteLine("Aquí apareix el recordatori de que no estem programant Street Fighter");
         }
 
         static void Escacs()
