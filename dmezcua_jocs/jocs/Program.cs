@@ -17,6 +17,8 @@ namespace jocs
         static void Buscaminas()
         {
             Console.WriteLine("Aquí aniría la funcionaltat del Buscaminas.");
+            Console.WriteLine("Aquí aniria la funcionalitat de clicar les caselles");
+            Console.WriteLine("Aquí aniría el Game Over, perqué tens molta mala sort.");
         }
 
         static void Comecocos()
